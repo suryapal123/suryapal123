@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Surya Pal
 
-<!--
-**suryapal123/suryapal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at Chandigarh Group of Colleges, Landran
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst & Machine Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- Python
+- SQL
+- Power BI
+- Microsoft Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Django
+- MySQL
+
+## 🚀 Featured Projects
+
+📊 Python Sales Analysis
+
+📈 SQL Sales Analysis
+
+📉 Netflix Dashboard
+
+📋 Excel Sales Dashboard
+
+## 📫 Contact
+
+LinkedIn: (Your LinkedIn URL)
+
+Email: (Your Email)
