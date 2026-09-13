@@ -28,6 +28,6 @@
 
 ## 📫 Contact
 
-LinkedIn: (Your LinkedIn URL)
+LinkedIn: (https://www.linkedin.com/in/surya-pal-906160327/)
 
-Email: (Your Email)
+Email: (suryapaul9630@gmail.com)
